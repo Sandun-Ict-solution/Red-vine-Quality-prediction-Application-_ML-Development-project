@@ -5,10 +5,19 @@ A Streamlit-based web application to predict red wine quality using machine lear
 ## 📋 Features
 
 - **Home Page**: Overview of the dataset with key metrics and a sample of the wine data.
+- <img width="1918" height="1066" alt="1" src="https://github.com/user-attachments/assets/4818bade-c0aa-42b7-995a-161936d688ba" />
+
 - **Data Explorer**: Filter and explore the dataset with interactive sliders for alcohol content, pH, and quality ratings.
+- <img width="1912" height="1078" alt="2" src="https://github.com/user-attachments/assets/543744c5-d5fb-4616-bd2d-0526f5c64b46" />
+
 - **Visualizations**: Interactive plots including box plots, correlation heatmaps, histograms, violin plots, and scatter plots to analyze wine features.
+- <img width="1906" height="1078" alt="3" src="https://github.com/user-attachments/assets/51582109-636f-45d0-a97f-0b007028dc01" />
+
 - **Predict Quality**: Input wine characteristics to predict quality with confidence scores and a probability gauge.
+- <img width="1912" height="1078" alt="4" src="https://github.com/user-attachments/assets/69f90092-d767-426b-8276-e3fbd2b7bbd7" />
+
 - **Model Performance**: Compare model metrics (train/test accuracy) and view feature importance rankings.
+<img width="1918" height="1078" alt="5" src="https://github.com/user-attachments/assets/2dc46193-3ef8-4fdb-a9fb-8fa227bf5cc7" />
 
 ## 🛠️ Technologies Used
 
