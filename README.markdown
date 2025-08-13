@@ -58,7 +58,7 @@ The app uses the **Red Wine Quality** dataset (`winequality-red.csv`), which con
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/wine-quality-predictor.git
+   git clone https://github.com/Sandun-Ict-solution/Red-vine-Quality-prediction-Application-_ML-Development-project.git)
    ```
 2. Navigate to the project directory:
 
